@@ -17,4 +17,5 @@ threshold: Adjust this value based on your audio characteristics.
 <img width="1032" alt="Screenshot 2023-12-06 at 1 38 52 PM" src="https://github.com/ahmedayman9/Audio-Silence-Detection-and-Pause-Percentage-Calculation-/assets/66433551/c536d978-c96e-4a38-9bb5-abc293f6f03d">
 
 
-### Feel free to further customize the headline and README content based on
+### Feel free to further customize the headline and README content based on your preferences and provide more details as needed.
+
