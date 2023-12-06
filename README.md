@@ -5,7 +5,7 @@ This repository contains Python code for detecting silence regions in an audio s
 ### Clone the repository:
 
 git clone https://github.com/ahmedayman9/Audio-Silence-Detection-and-Pause-Percentage-Calculation.git
-cd your-repo
+cd Audio-Silence-Detection-and-Pause-Percentage-Calculation
 
 ## Configuration
 Adjust the following parameters in the code according to your needs:
